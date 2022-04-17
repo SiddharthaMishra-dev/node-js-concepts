@@ -4,8 +4,8 @@
   "description": "",
   "main": "3-modules.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "nodemon app.js",
+    "dev": ""
   },
   "keywords": [],
   "author": "",
